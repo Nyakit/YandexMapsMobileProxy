@@ -9,7 +9,7 @@ let package = Package(
             targets: ["YandexMapsMobileProxy"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Nyakit/YandexMapsMobileWrapper.git", from: "1.0.1")
+        .package(url: "https://github.com/Nyakit/YandexMapsMobileWrapper.git", from: "1.0.0")
     ],
     targets: [
         .target(

@@ -5,9 +5,9 @@
         "package": "YandexMapsMobileWrapper",
         "repositoryURL": "https://github.com/Nyakit/YandexMapsMobileWrapper.git",
         "state": {
-          "branch": "main",
-          "revision": "5a987a0b8a29e47fe61a69afc9a13c5a3a2416b6",
-          "version": null
+          "branch": null,
+          "revision": "187c8be76edba0ef182fa7347a30c137666b7b9a",
+          "version": "1.0.1"
         }
       }
     ]
